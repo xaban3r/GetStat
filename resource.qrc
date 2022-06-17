@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resource">
+	<file>icons/icons8-главная-страница-50.png</file>
+	<file>icons/icons8-диаграмма-с-областями-50.png</file>
+	<file>icons/icons8-меню-в-квадрате-50.png</file>
+	<file>icons/icons8-помощь-50.png</file>
+	<file>icons/icons8-хронология-неделя-50.png</file>
+	<file>icons/icons8-экспорт-pdf-50.png</file>
+        <file>icons/icons8-github-100.png</file>
+        <file>icons/icons8-vk-в-круге-100.png</file>
+        <file>icons/icons8-почта-100.png</file>
+        <file>icons/icons8-телеграмма-app-100.png</file>
+        <file>icons/data-image.png</file>
+        <file>icons/icons8-github-50.png</file>
+        <file>icons/icons8-прошедшее-время-50.png</file>
+    </qresource>
+</RCC>
