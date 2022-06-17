@@ -11,3 +11,7 @@
 
 <p style="margin-left:80px">Последним элементом системы является само пользовательское приложение, в котором сначала необходимо подключиться к нужной БД, а далее можно получить статистику посещамости по нажатию кнопки (Можно получить статистику за определенный период, указав его).&nbsp;</p>
 
+![Screenshot_1](https://user-images.githubusercontent.com/89856741/174315697-db76ffe5-3841-416d-a41f-abb624c7484d.png)
+![Screenshot_2](https://user-images.githubusercontent.com/89856741/174315794-b0524224-2a1b-4f7d-86f1-6f19fb1e8b39.png)
+![Screenshot_3](https://user-images.githubusercontent.com/89856741/174315743-146a3029-2b03-439a-a227-561a09255495.png)
+sercontent.com/89856741/174315735-35d8160f-48a8-4b76-bca7-c7eb8cc68cb7.png)
